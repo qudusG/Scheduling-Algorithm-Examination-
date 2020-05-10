@@ -1,0 +1,11 @@
+C:\CS\ExamTimetable\ExamTimetable\bin\Debug\netcoreapp3.1\ExamTimetable.exe
+C:\CS\ExamTimetable\ExamTimetable\bin\Debug\netcoreapp3.1\ExamTimetable.deps.json
+C:\CS\ExamTimetable\ExamTimetable\bin\Debug\netcoreapp3.1\ExamTimetable.runtimeconfig.json
+C:\CS\ExamTimetable\ExamTimetable\bin\Debug\netcoreapp3.1\ExamTimetable.runtimeconfig.dev.json
+C:\CS\ExamTimetable\ExamTimetable\bin\Debug\netcoreapp3.1\ExamTimetable.dll
+C:\CS\ExamTimetable\ExamTimetable\bin\Debug\netcoreapp3.1\ExamTimetable.pdb
+C:\CS\ExamTimetable\ExamTimetable\obj\Debug\netcoreapp3.1\ExamTimetable.csprojAssemblyReference.cache
+C:\CS\ExamTimetable\ExamTimetable\obj\Debug\netcoreapp3.1\ExamTimetable.AssemblyInfoInputs.cache
+C:\CS\ExamTimetable\ExamTimetable\obj\Debug\netcoreapp3.1\ExamTimetable.AssemblyInfo.cs
+C:\CS\ExamTimetable\ExamTimetable\obj\Debug\netcoreapp3.1\ExamTimetable.dll
+C:\CS\ExamTimetable\ExamTimetable\obj\Debug\netcoreapp3.1\ExamTimetable.pdb

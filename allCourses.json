@@ -1,0 +1,12 @@
+[
+	{
+		"subjects": [ "Thermodynamics", "Machine Design", "Aerodynamics", "Biology" ]
+	},
+	{
+		"subjects": [ "Electrical Machines", "Machine Design", "Thermofluids", "Biology" ]
+	},
+	{
+		"subjects": [ "Engineering Mathematics", "Machine Design", "Production", "Metallurgy", "Fluid Mechanics" ]
+	}
+
+]
